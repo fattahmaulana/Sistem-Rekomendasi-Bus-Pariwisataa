@@ -110,7 +110,6 @@ const busDataset = [
   { id: 99, nama_bus: "Sugeng Rahayu Golden Star", tipe_bus: "Executive", kelas_bus: "Super High Deck", kapasitas: 48, harga_start: 3600000, tahun: 2023, rute: "Bandung-Surabaya", fasilitas: ["AC", "WiFi", "Toilet", "Reclining Seat", "TV"], image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800" },
   { id: 100, nama_bus: "Tiara Mas SHD Premium", tipe_bus: "Executive", kelas_bus: "Super High Deck", kapasitas: 50, harga_start: 3700000, tahun: 2024, rute: "Jakarta-Bali", fasilitas: ["AC", "WiFi", "Toilet", "Reclining Seat", "TV", "USB Port", "Snack"], image: "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800" }
 ];
-];
 
 const availableFasilitas = [
   { name: "AC", icon: Wind },
