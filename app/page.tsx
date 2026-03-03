@@ -7,8 +7,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 // Dataset 100 Bus Pariwisata Jawa-Bali
 const busDataset = [
   // Dataset 100 Bus Pariwisata Jawa-Bali
-const busDataset = [
-  // ID 1 - 100 (Sesuai Data Anda)
   { id: 1, nama_bus: "Sumber Kencono SHD", tipe_bus: "Executive", kelas_bus: "Super High Deck", kapasitas: 52, harga_start: 3500000, tahun: 2023, rute: "Jakarta-Surabaya", fasilitas: ["AC", "WiFi", "Toilet", "Reclining Seat", "TV", "USB Port", "Snack"], image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800" },
   { id: 2, nama_bus: "Rosalia Indah Premiere", tipe_bus: "Executive", kelas_bus: "Super High Deck", kapasitas: 48, harga_start: 3800000, tahun: 2023, rute: "Surabaya-Denpasar", fasilitas: ["AC", "WiFi", "Toilet", "Reclining Seat", "TV", "USB Port", "Snack"], image: "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800" },
   { id: 3, nama_bus: "Pahala Kencana Platinum", tipe_bus: "Executive", kelas_bus: "Super High Deck", kapasitas: 50, harga_start: 4000000, tahun: 2024, rute: "Jakarta-Denpasar", fasilitas: ["AC", "WiFi", "Toilet", "Reclining Seat", "TV", "USB Port", "Snack", "Massage Seat"], image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800" },
